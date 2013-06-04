@@ -3,7 +3,6 @@ layout: post
 title: 在cron中使用date +%Y
 ---
 
-#在cron中使用date +%Y
 之前在crontab中加入了一些entry，今早查看发现没有正常运行。查看cron log：
 
     ...rsync.log.`date +)

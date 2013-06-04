@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-image:url('img/bg.jpg');
+  background-image:url('../img/bg.jpg');
   background-color: white;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;

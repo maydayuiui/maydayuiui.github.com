@@ -2,7 +2,7 @@
 layout: post
 title: Branded Zones
 ---
-# Branded Zones
+
 每年都会给包含zone的Solaris打patch，一直都是直接在global zone里打patch，sub-zone中的patch也会一并打上。直到去年，有些zone需要进入到sub-zone中去打patch。除此之外，还有一个区别，当使用`uname -a`查看版本时，版本显示为`Generic_Virtual`。没有直接显示出版本号，需要使用`showrev -v`的方式来查看。
 
 今天才醒悟过来，需要直接到subzone中打patch的都是Solaris 9或8。而我们的global zone都是Solaris 10。它们并不是直接继承的global zone。而是需要某种转换。

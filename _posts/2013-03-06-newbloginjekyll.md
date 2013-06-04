@@ -2,7 +2,6 @@
 layout: post
 title: 生命不息，折腾不止
 ---
-# 生命不息，折腾不止
 
 ![Jakiro](/img/jakiro.png)
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 混迹于DL某外包公司
 

@@ -39,12 +39,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="#">¸»¹óÉ½×¯</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li class="active"><a href="/index.html">Home</a></li>
+              <li><a href="/about.html">About</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -58,7 +57,7 @@
 			
 			
 <hr>
-  <ul class="posts">
+  <ul>
     {% for post in site.related_posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}

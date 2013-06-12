@@ -738,7 +738,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 10px 0;
+  margin: 20px 0 10px;
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
@@ -769,6 +769,7 @@ h1 {
 
 h2 {
   font-size: 31.5px;
+  border-bottom: 1px solid #ccc;
 }
 
 h3 {

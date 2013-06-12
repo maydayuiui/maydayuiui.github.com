@@ -19,3 +19,6 @@ ul.posts {
     font-size: 80%;
   }
   
+h2 {
+  border-bottom: 1px solid #ccc;
+}

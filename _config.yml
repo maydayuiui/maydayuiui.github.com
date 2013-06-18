@@ -12,5 +12,4 @@ plugins:     ./_plugins
 future:      true
 lsi:         false
 pygments:    false
-markdown:    rdiscount
 permalink:   date

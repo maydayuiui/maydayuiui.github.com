@@ -2,4 +2,4 @@
 layout: default
 title: About
 ---
-微博：weibo.com/maydayuiui
+[微博](http://weibo.com/maydayuiui)

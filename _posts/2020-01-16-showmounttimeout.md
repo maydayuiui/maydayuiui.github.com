@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NFS: clnt_create: RPC: Port mapper failure - Timed out
+title: NFS clnt_create RPC Port mapper failure Timed out
 ---
 
 After setup NFS server, you try to use `showmount` command to list out shared entries in server, but you get below error:
